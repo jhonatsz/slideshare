@@ -1,2 +1,5 @@
-# slideshare
-slides-decks of my talks from various campus and codecamps
+# Slideshare
+
+Decided to put my decks of talks so people can use it as source of learning and guide
+
+
