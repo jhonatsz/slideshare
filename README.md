@@ -8,10 +8,10 @@ A currated list of techtalks created from revealjs.
 
 
 ## Getting Started with ReactJS
-**Repository:** [u]TBA[/u]
-**Live Slides:** [u]TBA[/u]
+**Repository:** <u>TBA</u>  
+**Live Slides:** <u>TBA</u>
 
 ## H4CK - An Introduction to Ethical Hacking
-**Repository:** [u]https://github.com/jhonatsz/h4ck[/u]
-**Live Slides:** [u]https://jhonatsz.github.io/h4ck/[/u]
+**Repository:** <u>https://github.com/jhonatsz/h4ck</u]  
+**Live Slides:** <u>https://jhonatsz.github.io/h4ck/</u]
   - August 08'17 - Campus Devcon at DLSAU
