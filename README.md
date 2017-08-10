@@ -6,7 +6,7 @@ A currated list of techtalks created from revealjs.
 - [H4CK - An Introduction to Ethical Hacking](#h4ck)
 - [Getting Started with ReactJS](#getting-started-with-reactjs)
 
-## H4CK
+## H4CK - An Introduction to Ethical Hacking
 *Repository: https://github.com/jhonatsz/h4ck*
 *Live Slides Url: https://jhonatsz.github.io/h4ck/*
   - August 08'17 - Campus Devcon at DLSAU
